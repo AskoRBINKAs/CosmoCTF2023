@@ -1,9 +1,0 @@
-version: '3'
-services:
-  chall:
-    container_name: pwn_chal
-    read_only: true
-    build: .
-    restart: always
-    ports:
-      - "4000:4000"
