@@ -3,8 +3,8 @@
 ____
 В этом репозитории выложены задачи с CosmoCTF 2023 и решения к ним в отдельных файлах.
 Всего есть 2 файла с решениями:
-* [Jeopardy WriteUp.pdf](https://github.com/AskoRBINKAs/CosmoCTF2023/blob/main/Pentest%20WriteUp.pdf) - сборник решений задач (без пентеста)
-* [Pentest WriteUp.pdf](https://github.com/AskoRBINKAs/CosmoCTF2023/blob/main/Jeopardy%20WriteUp.pdf) - сбоник решений задач категории пентест
+* [Pentest WriteUp.pdf](https://github.com/AskoRBINKAs/CosmoCTF2023/blob/main/Pentest%20WriteUp.pdf) - сборник решений задач (без пентеста)
+* [Jeopardy WriteUp.pdf](https://github.com/AskoRBINKAs/CosmoCTF2023/blob/main/Jeopardy%20WriteUp.pdf) - сбоник решений задач категории пентест
 
 ## Образ виртуальной машины для пентеста не будет выгружен!!!
 ____
